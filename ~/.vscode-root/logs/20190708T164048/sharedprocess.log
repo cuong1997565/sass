@@ -1,0 +1,33 @@
+[2019-07-08 16:40:53.220] [sharedprocess] [info] main {"machineId":"b115e23d1ad27094636a33ef9fc6dca987f5daf8bc392d4955c0418d68b8ee54"}
+[2019-07-08 16:40:53.414] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-08 16:40:53.423] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-08 16:40:53.424] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-08 16:40:53.615] [sharedprocess] [info] Deleted from disk zhuangtongfa.material-theme /home/admin123/.vscode/extensions/zhuangtongfa.material-theme-2.25.0
+[2019-07-08 16:40:53.709] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 16:40:53.844] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 16:40:53.911] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-08 16:40:53.968] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 16:40:53.975] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 16:40:54.449] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 16:40:55.786] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2019-07-08 16:40:55.795] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 16:40:56.324] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /tmp/dd0d49a5-0097-47e6-b508-f82a616bf0ba
+[2019-07-08 16:40:56.358] [sharedprocess] [info] Extracted extension to /home/admin123/.vscode/extensions/.zhuangtongfa.material-theme-2.25.3: zhuangtongfa.material-theme
+[2019-07-08 16:40:56.358] [sharedprocess] [info] Renamed to /home/admin123/.vscode/extensions/zhuangtongfa.material-theme-2.25.3
+[2019-07-08 16:40:56.359] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
+[2019-07-08 16:40:56.472] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
+[2019-07-08 16:41:12.565] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 16:41:12.611] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-08 16:41:12.617] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-08 16:41:12.649] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 16:41:12.679] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-08 16:41:12.888] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 16:41:14.722] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 16:41:33.234] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-07-08 16:46:14.791] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 16:51:14.861] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 16:56:14.937] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 17:01:15.013] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 17:06:15.092] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 17:11:15.392] [sharedprocess] [info] Scanned user extensions: 12
+[2019-07-08 17:16:15.471] [sharedprocess] [info] Scanned user extensions: 12

@@ -1,0 +1,26 @@
+// $primary_color : red;
+// $size : 32;
+// $text_size : $size * 1px;
+// $text_size_string : 32 +px;
+// $text_size_number : $text_size / 1px;
+// .container {
+//     margin-top: 10px;
+//     h1 {
+//         color: $primary_color;
+//     }
+//     p {
+//         font: {
+//             size: $text_size_string;
+//         }
+//     }
+// }
+
+
+$color : #4286f4;
+$light-color : lighten($color, 15%);
+$dark-color : darken($color, 85%);
+h1, p {
+    background-color: $dark-color;
+    padding: 10px;
+    color: yellow;
+}
